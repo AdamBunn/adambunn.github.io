@@ -1,0 +1,28 @@
+# Site settings
+title: Adam Bunn
+email: adam@adambunn.ca
+url: adambunn.ca
+description: "."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Adam Bunn
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/adambunn
+  - title: facebook
+    url:
+  - title: instagram
+    url: https://instagram.com/adambunn
+  - title: github
+    url: https://github.com/AdamBunn
+
+# Build settings
+markdown: kramdown
+permalink: pretty
