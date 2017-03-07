@@ -1,6 +1,5 @@
 # Site settings
 title: Adam Bunn
-email: adam@adambunn.ca
 url: adambunn.ca
 description: "."
 
@@ -16,8 +15,6 @@ footer: Adam Bunn
 social:
   - title: twitter
     url: https://twitter.com/adambunn
-  - title: facebook
-    url:
   - title: instagram
     url: https://instagram.com/adambunn
   - title: github
