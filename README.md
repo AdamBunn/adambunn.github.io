@@ -1,13 +1,14 @@
-Grayscale Jekyll theme
+Adam Bunn Personal Webpage
 =========================
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+This landing page is better than nothing :) 
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
+I spend as little time as possible maintaining this website so that I can focus on the things that matter in life.
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
 
 =========
-For more details, read the [documentation](http://jekyllrb.com/)
+### Technical Details
+Site built using Jekyll static site generator. For more details, read the [documentation](http://jekyllrb.com/)
+
+### Theme
+Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
